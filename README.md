@@ -1,4 +1,4 @@
-# LM-Source
+# AnyCapsule
 
 A Chrome extension that adds context management, message tools, and cross-platform handoff to Claude, ChatGPT, and Google Gemini.
 
